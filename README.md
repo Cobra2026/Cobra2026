@@ -20,7 +20,6 @@ hi@fajar.io
       <td align="center">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
