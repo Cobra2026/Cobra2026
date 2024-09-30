@@ -23,8 +23,8 @@ zakyyusuf04@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Springbloom Harrow is a work-in-progress farming game.</td> <!--desc-->
+      <td valign="text-top">Hold Shift to Climb is a work-in-progress climbing game.</td> <!--desc-->
     </tr>
     <tr>
     </tr>
@@ -52,8 +52,8 @@ zakyyusuf04@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.</td> <!--desc-->
-      <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
+      <td valign="text-top">Trash Blasters is a work-in-progress top down shooter game</td> <!--desc-->
+      <td valign="text-top">TepoKKartu is a work-in-progress card game inspired by the Indonesian traditional game "Tepuk Kartu" where players compete against bots.</td> <!--desc-->
     </tr>
     <tr>
     </tr>
