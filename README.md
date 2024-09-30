@@ -12,7 +12,7 @@ zakyyusuf04@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Springbloom Harrow </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Hold Shift to Climb</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -40,8 +40,8 @@ zakyyusuf04@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Shevia Fire VR</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Trash Blasters VR</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Name TBA: Card Game</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
