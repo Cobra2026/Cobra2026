@@ -4,7 +4,7 @@ Hi, my name is Zaky Muhammad Yusuf 👋
 Hi, my name is Zaky Muhammad Yusuf
 
 **📩Email** <br>
-hi@fajar.io
+zakyyusuf04@gmail.com
 
 <br>
 
