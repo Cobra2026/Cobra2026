@@ -47,7 +47,6 @@ hi@fajar.io
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
