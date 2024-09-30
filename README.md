@@ -11,13 +11,13 @@ hi@fajar.io
 <table width="100%">
   <thead>
     <tr>
+      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
       <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
