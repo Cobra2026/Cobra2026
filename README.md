@@ -23,8 +23,8 @@ zakyyusuf04@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Springbloom Harrow is a work-in-progress farming game.</td> <!--desc-->
-      <td valign="text-top">Hold Shift to Climb is a work-in-progress climbing game.</td> <!--desc-->
+      <td valign="text-top">Springbloom Harrow is farming game set in a village where you play as a half-goat named "Brighid". You are tasked to plant seeds, slay monsters and gain enough life essence to restore the dying land.</td> <!--desc-->
+      <td valign="text-top">Hold Shift to Climb is a climbing game set in a futuristic cyberpunk world where we must escape the city from a corporate overlord. The game takes inspiration from "A Difficult Game About Climbing" where you control 2 arms and must dodge hazards and reach the end of the level.</td> <!--desc-->
     </tr>
     <tr>
     </tr>
@@ -52,8 +52,8 @@ zakyyusuf04@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Trash Blasters is a work-in-progress top down shooter game</td> <!--desc-->
-      <td valign="text-top">TepoKKartu is a work-in-progress card game inspired by the Indonesian traditional game "Tepuk Kartu" where players compete against bots.</td> <!--desc-->
+      <td valign="text-top">Trash Blasters is a top down shooter game set in a modern city where you must destroy 4 boss monsters to stop the trash invasion.</td> <!--desc-->
+      <td valign="text-top">Twofolds is a card game set in a tavern setting where players fight against computer-generated cards. The gameplay revolves around two-sided cards inspired by the local Indonesian game "Tepuk Kartu".</td> <!--desc-->
     </tr>
     <tr>
     </tr>
