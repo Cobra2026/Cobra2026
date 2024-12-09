@@ -19,7 +19,7 @@ zakyyusuf04@gmail.com
     <tr>
       <td align="center">
         <td align = "center">
-        <img src = "https://github.com/user-attachments/assets/117d0d56-af30-494f-a6fe-a97a6b6b3890" alt = "Climbing" style = "wodth:100%;height:auto;>
+        <img src = "https://github.com/user-attachments/assets/117d0d56-af30-494f-a6fe-a97a6b6b3890" alt = "Climbing" style = "width:100%;height:auto;>
           </td>
       </td>
       <td align="center">
