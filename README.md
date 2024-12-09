@@ -18,13 +18,16 @@ zakyyusuf04@gmail.com
   <tbody>
     <tr>
       <td align="center">
+        <td align = "center">
+        <img src = "https://github.com/user-attachments/assets/117d0d56-af30-494f-a6fe-a97a6b6b3890" alt = "Climbing" style = "wodth:100%;height:auto;>
+          </td>
       </td>
       <td align="center">
       </td>
     </tr>
     <tr>
       <td valign="text-top">Springbloom Harrow is farming game set in a village where you play as a half-goat named "Brighid". You are tasked to plant seeds, slay monsters and gain enough life essence to restore the dying land.</td> <!--desc-->
-      <td valign="text-top">![ezgif-6-1125509753](https://github.com/user-attachments/assets/5b498daa-b9d2-4a06-bf23-6591c1825dd9)
+      <td valign="text-top">
 Ascension City is a climbing game set in a futuristic cyberpunk world where we must escape the city from a corporate overlord. The game takes inspiration from "A Difficult Game About Climbing" where you control 2 arms and must dodge hazards and reach the end of the level.</td> <!--desc-->
     </tr>
     <tr>
