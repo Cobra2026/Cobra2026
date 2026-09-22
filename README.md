@@ -50,15 +50,12 @@ Ascension City is a climbing game set in a futuristic cyberpunk world where we m
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-      <img src = "https://github.com/Cobra2026/Cobra2026/blob/main/Project_Impact_Rogue_Trailer.gif" alt = "Climbing" style = "width:100%;height:auto;>
-        </td>
-        <tr>
         <td align = "center">
         <img src = "https://github.com/Cobra2026/Cobra2026/blob/main/TwofoldsGameplay.gif" alt = "Climbing" style = "width:100%;height:auto;>
           </td>
       </td>
       <td align="center">
+        <img src = "https://github.com/Cobra2026/Cobra2026/blob/main/Project_Impact_Rogue_Trailer.gif" alt = "Climbing" style = "width:100%;height:auto;>
       </td>
     </tr>
     <tr>
