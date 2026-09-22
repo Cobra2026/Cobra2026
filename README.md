@@ -19,6 +19,7 @@ zakyyusuf04@gmail.com
     <tr>
       <td align="center">
         <td align = "center">
+          <img src = "https://github.com/Cobra2026/Cobra2026/blob/main/Project_Impact_Rogue_Trailer.gif" alt = "Climbing" style = "width:100%;height:auto;>
         <img src = "https://github.com/Cobra2026/Cobra2026/blob/main/GIF_20241209_162538_662.gif" alt = "Climbing" style = "width:100%;height:auto;>
           </td>
       </td>
@@ -55,7 +56,6 @@ Ascension City is a climbing game set in a futuristic cyberpunk world where we m
           </td>
       </td>
       <td align="center">
-        <img src = "https://github.com/Cobra2026/Cobra2026/blob/main/Project_Impact_Rogue_Trailer.gif" alt = "Climbing" style = "width:100%;height:auto;>
       </td>
     </tr>
     <tr>
