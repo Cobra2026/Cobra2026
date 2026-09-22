@@ -59,7 +59,7 @@ Ascension City is a climbing game set in a futuristic cyberpunk world where we m
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Project Impact: Rogue TBA</td> <!--desc-->
+      <td valign="text-top">Project Impact: Rogue is a hack and slash action game  where players are tasked to slay invading alien lifeform. Play either solo or with friend to defeat a boss or survive as long as you can against an endless waves of enemy. </td> <!--desc-->
       <td valign="text-top">Twofolds is a card game set in a tavern setting where players fight against computer-generated cards. The gameplay revolves around two-sided cards inspired by the local Indonesian game "Tepuk Kartu".</td> <!--desc-->
     </tr>
     <tr>
